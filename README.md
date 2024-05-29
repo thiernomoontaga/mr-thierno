@@ -1,8 +1,10 @@
+<!-- SVG TYPING -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Moustapha+Ibrahima+Ba+👨🏾;I+am+a+computer+science+engineering+student+🧑🏾‍🎓;I+am+passionate+about+programming+💻;I+love+sharing+knowledge+📚;I+am+an+enthusiastic+problem+solver+🧩;I+am+a+lifelong+learner+📖;I+would+like+to+be+an+open-source+contributor+🌐;Coding+is+my+passion+❤️;I+am+a+tech+enthusiast+🚀;I+enjoy+teaching+others+🎓;I+am+always+curious+and+creative+🧠)](https://git.io/typing-svg)
 
-
+<!-- ILLUSTRATION'S IMAGE -->
 <img align="right" alt ="coding" width="700" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
+<!-- DESCRIPTION -->
 👨🏾‍💻 **Moustapha Ibrahima Ba**
 
 Passionate about **programming** 💻 
@@ -25,7 +27,7 @@ Enjoy **Teaching** Others 🎓
 
 Always **Curious** and **Creative** 🧠
 
-
+<!-- LANGUAGE & TOOLS -->
 <div>
 
 | Language                                                  | Tools                                                        |
@@ -37,8 +39,9 @@ Always **Curious** and **Creative** 🧠
 
 </div>
 
-<p align="right" color="#0583F2">
-    "Passion drives me, Curiosity guides me" <br> 
+<!-- QUOTE -->
+<p align="right">
+    <q>Passion drives me, Curiosity guides me</q> <br> 
     - <b>Moustapha Ibrahima Ba<b> aka <i>mr-mib</i>
 </p>
 
