@@ -7,11 +7,11 @@
 <!-- DESCRIPTION -->
 👨🏾‍💻 **Moustapha Ibrahima Ba**
 
+Computer Science **Engineer** 🧑🏾‍🎓 
+
 Passionate about **programming** 💻 
 
 Love sharing **knowledge** 📚 
-
-Computer Engineering Student 🧑🏾‍🎓 
 
 Enthusiastic **Problem Solver** 🧩 
 
