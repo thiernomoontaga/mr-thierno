@@ -17,7 +17,6 @@ Enthusiastic **Problem Solver** 🧩
 
 Lifelong **Learner** 📖 
 
-Future Open-Source **Contributor** 🌐 
 
 Coding is my **Passion** ❤️ 
 
