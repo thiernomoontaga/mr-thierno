@@ -84,6 +84,6 @@ Always **Curious** and **Creative** 🧠
 
 <!-- QUOTE -->
 <p align="right">
-    <q>Passion drives me, Curiosity guides me</q> <br> 
-    - <b>Moustapha Ibrahima Ba<b> aka <i>mr-mib</i>
+    <q>Yokh leu ! </q> <br> 
+    - <b>THIERNO SEGNANE<b> aka <i>mr-thier</i>
 </p>
