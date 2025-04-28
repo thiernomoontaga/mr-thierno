@@ -5,9 +5,9 @@
 <img align="right" alt ="coding" width="600" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
 <!-- DESCRIPTION -->
-👨🏾‍💻 **Moustapha Ibrahima Ba**
+👨🏾‍💻 **THIERNO SEGNANE**
 
-Computer Science **Engineer** 🧑🏾‍🎓 
+Computer Science **lover** 🧑🏾‍🎓 
 
 Passionate about **programming** 💻 
 
